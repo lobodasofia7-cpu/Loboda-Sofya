@@ -3,4 +3,4 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Web design student from Russia, I am actively developing in this field 🇷🇺</h3>
 <h3 align="center">You can find me in <a href="https://t.me/fenekfoxsoff">telegram here</a>. </h3>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="300" height="500" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="100" height="300" />
