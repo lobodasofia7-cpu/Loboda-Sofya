@@ -3,6 +3,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Web design student from Russia, I am actively developing in this field 🇷🇺</h3>
 <h3 align="center">You can find me in <a href="https://t.me/fenekfoxsoff">telegram here</a>. </h3>
+<p ALIGN=”CENTER”>
 <table align-="center">
   <caption> What am I learning and able to do now? </caption>
   <tr>
@@ -12,5 +13,5 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100" height="300" /></td>
   </tr>
 </table>
-
+</p>
 
